@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/typescript-original.svg" />
 
 
 
