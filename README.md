@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as web development intern
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on mainly on front end
+- 🔭 Open to work
+- 🌱 I’m currently learning fullstack web development, using Angular and .NET
+- 👯 I’m looking to collaborate on mainly on frontend
 
 ##
 
