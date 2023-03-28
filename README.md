@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ##
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikferreira0403&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikferreira0403&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erikferreira0403&layout=compact&langs_count=7&theme=dracula)
 
 ##
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <td> 
