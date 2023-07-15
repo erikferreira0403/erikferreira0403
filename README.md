@@ -1,14 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+# <p align="center"> Hello, I am Erik, welcome to my github! <p>
 
 
-## Hello world!
-
-
-Here are some ideas to get you started:
-
-- 🔭 Open to work
-- 🌱 I’m currently learning fullstack web development, using Angular and .NET
-- 👯 I’m looking to collaborate on mainly on frontend
+## 💫 About Me:
+🔭 I’m currently working on personal projects.<br> I’m currently focusing on learning Angular and ASP.NET frameworks.<br>💻 Main languages: JavaScript, TypeScript and C#.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
 
 ##
 
