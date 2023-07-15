@@ -11,6 +11,8 @@
 ### Main Stacks
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Angular](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23F7DF1E) 
+![C#](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=C#&logoColor=%23F7DF1E) 
 
 ### Web Stacks  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
