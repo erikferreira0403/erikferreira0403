@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on personal projects.<br> I’m currently focusing on learning Angular and ASP.NET frameworks.<br>💻 Main languages: JavaScript, TypeScript and C#.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
+🔭 I’m currently working on personal projects.<br>💻 I’m currently focusing on learning Angular and ASP.NET frameworks.<br>💻 Main languages: JavaScript, TypeScript and C#.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
 
 ##
 
